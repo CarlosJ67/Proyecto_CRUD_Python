@@ -19,7 +19,7 @@ CRUD_Python_MYSQL/
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu_usuario/CRUD_Python_MYSQL.git
+    git clone https://github.com/CarlosJ67/CRUD_Python_MYSQL.git
     cd CRUD_Python_MYSQL
     ```
 
